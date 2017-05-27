@@ -1,24 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ffbffc0d-eefc-4a9d-94d0-92173b623a0b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jishu.pkl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/list.pkl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/任真小管家.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sqlite_read_save.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/各种小工具.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/录入函数.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/思路-说明-点.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/生成编码.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/衣服的类.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/计数器.py" />
+    <list default="true" id="ffbffc0d-eefc-4a9d-94d0-92173b623a0b" name="Default" comment="1">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -489,6 +473,14 @@
       <option name="presentableId" value="Default" />
       <updated>1495682199531</updated>
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1495891067856</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1495891067856</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -577,6 +569,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
